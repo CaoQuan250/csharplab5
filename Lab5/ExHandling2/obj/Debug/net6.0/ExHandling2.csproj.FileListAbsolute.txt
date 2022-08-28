@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\bin\Debug\net6.0\ExHandling2.exe
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\bin\Debug\net6.0\ExHandling2.deps.json
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\bin\Debug\net6.0\ExHandling2.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\bin\Debug\net6.0\ExHandling2.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\bin\Debug\net6.0\ExHandling2.pdb
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\refint\ExHandling2.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.pdb
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ExHandling2.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling2\obj\Debug\net6.0\ref\ExHandling2.dll

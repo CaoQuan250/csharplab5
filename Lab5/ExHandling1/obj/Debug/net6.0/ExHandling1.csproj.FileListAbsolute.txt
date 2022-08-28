@@ -1,0 +1,15 @@
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\bin\Debug\net6.0\ExHandling1.exe
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\bin\Debug\net6.0\ExHandling1.deps.json
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\bin\Debug\net6.0\ExHandling1.runtimeconfig.json
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\bin\Debug\net6.0\ExHandling1.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\bin\Debug\net6.0\ExHandling1.pdb
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.csproj.AssemblyReference.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.AssemblyInfoInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.AssemblyInfo.cs
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.csproj.CoreCompileInputs.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\refint\ExHandling1.dll
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.pdb
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ExHandling1.genruntimeconfig.cache
+C:\FPTAPTECH\Sem2\C#\Lab5\ExHandling1\obj\Debug\net6.0\ref\ExHandling1.dll
